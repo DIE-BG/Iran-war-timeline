@@ -22,6 +22,15 @@ const newsData = [
     { fecha: "2006", resumen: "El Consejo de Seguridad de la ONU impuso las primeras sanciones dirigidas al programa nuclear.", fila: 3 },
     { fecha: "2015", resumen: "Una coalición integrada por Estados Unidos, China, Rusia, Francia, Alemania y Reino Unido, alcanzaron un acuerdo junto a Irán para restringir y supervisar su programa nuclear.", fila: 3 },
     { fecha: "2018", resumen: "El presidente de los Estados Unidos, Donald Trump, anunció la salida de Estados Unidos del acuerdo previamente alcanzado y afirmó que reanudaría las sanciones económicas contra Irán.", fila: 3 },
-    { fecha: "2025-2026", resumen: "Estados Unidos e Israel lanzan multiples ataques contra Irán, alegando que Irán se encuentra cerca del desarrollo de la bomba nuclear. Los últimos de los ataques han dado como resultado la muerte de Khamenei una escalada en el conflicto entre ambas partes.", fila: 3 },
+    { fecha: "2025", resumen: "Estados Unidos e Israel lanzan multiples ataques contra Irán, alegando que Irán se encuentra cerca del desarrollo de la bomba nuclear. El conflicto finalizó pronto, en lo que se denominó como la guerra de los 12 días.", fila: 3 },
 
+    // FILA 4
+    { fecha: "enero 2026", resumen: "El año comienza entre disturbios en Irán y el despliegue de fuerzas militares estadounidenses cerca de aguas iranies.", fila: 4 },    
+    { fecha: "28 de febrero 2026", resumen: "Estados Unidos e Israel atacan Irán mientras había conversaciones para tratar de lograr consenso sobre el programa nuclear iraní y su programa de misiles. El mismo día del ataque Irán responde cerrando el Estrecho de Ormuz.", fila: 4 },
+    { fecha: "29 de febrero 2026", resumen: "Irán ataca bases militares estadounidenses ubicadas en países del Golfo Pérsico, pero los ataques se extienden a infraestructura energética de países como Arabia Saudita, Qatar, Dubái o Baréin.", fila: 4 },    
+    { fecha: "9 de marzo 2026", resumen: "El petróleo experimenta la mayor variación porcentual en su precio desde que se tienen registros de precios de futuros del mismo.", fila: 4 },
+    { fecha: "23 de marzo 2026", resumen: "Finaliza el primer ultimátum de Estados Unidos a Irán, pero el ataque se pospone por 5 días. Estados Unidos argumenta que comienza una serie de conversaciones en torno a un posible acuerdo de paz."},
+    { fecha: "7 de abril 2026", resumen: "Este día finalizaría el segundo ultimátum de Estados Unidos a Irán. Antes de cumplirse el ultimátum, Pakistán logra un acuerdo de cese al fuego mientras se llevan a cabo conversaciones entre las partes."},
+    { fecha: "11 y 12 de abril 2026", resumen: "Delegados estadounidenses e iraníes se reúnen en Islamabad para intentar llegar a un acuerdo. Pese a ello no se llega a un consenso y Estados Unidos declara que ahora serán ellos quienes impondrán un bloqueo en el Estrecho de Ormuz."},
+    
 ];
