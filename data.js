@@ -28,9 +28,9 @@ const newsData = [
     { fecha: "enero 2026", resumen: "El año comienza entre disturbios en Irán y el despliegue de fuerzas militares estadounidenses cerca de aguas iranies.", fila: 4 },    
     { fecha: "28 de febrero 2026", resumen: "Estados Unidos e Israel atacan Irán mientras había conversaciones para tratar de lograr consenso sobre el programa nuclear iraní y su programa de misiles. El mismo día del ataque Irán responde cerrando el Estrecho de Ormuz.", fila: 4 },
     { fecha: "29 de febrero 2026", resumen: "Irán ataca bases militares estadounidenses ubicadas en países del Golfo Pérsico, pero los ataques se extienden a infraestructura energética de países como Arabia Saudita, Qatar, Dubái o Baréin.", fila: 4 },    
-    { fecha: "9 de marzo 2026", resumen: "El petróleo experimenta la mayor variación porcentual en su precio desde que se tienen registros de precios de futuros del mismo.", fila: 4 },
+    { fecha: "9 de marzo 2026", resumen: "El fin de semana del 7 al 8 de marzo Estados Uniods e Israel atacan depósitos de petróleo iraniés. El lunes 9 los mercados de petróleo experimenta la mayor variación porcentual en su precio desde que se tienen registros de precios de futuros del mismo.", fila: 4 },
     { fecha: "23 de marzo 2026", resumen: "Finaliza el primer ultimátum de Estados Unidos a Irán, pero el ataque se pospone por 5 días. Estados Unidos argumenta que comienza una serie de conversaciones en torno a un posible acuerdo de paz."},
     { fecha: "7 de abril 2026", resumen: "Este día finalizaría el segundo ultimátum de Estados Unidos a Irán. Antes de cumplirse el ultimátum, Pakistán logra un acuerdo de cese al fuego mientras se llevan a cabo conversaciones entre las partes."},
-    { fecha: "11 y 12 de abril 2026", resumen: "Delegados estadounidenses e iraníes se reúnen en Islamabad para intentar llegar a un acuerdo. Pese a ello no se llega a un consenso y Estados Unidos declara que ahora serán ellos quienes impondrán un bloqueo en el Estrecho de Ormuz."},
+    { fecha: "11 y 12 de abril 2026", resumen: "Delegados estadounidenses e iraníes se reúnen en Islamabad para intentar llegar a un acuerdo. Pese a ello no se llega a un consenso y Estados Unidos declara un bloqueo naval a Irán."},
     
 ];
