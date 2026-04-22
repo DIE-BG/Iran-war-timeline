@@ -32,5 +32,7 @@ const newsData = [
     { fecha: "23 de marzo 2026", resumen: "Finaliza el primer ultimátum de Estados Unidos a Irán, pero el ataque se pospone por 5 días. Estados Unidos argumenta que comienza una serie de conversaciones en torno a un posible acuerdo de paz."},
     { fecha: "7 de abril 2026", resumen: "Este día finalizaría el segundo ultimátum de Estados Unidos a Irán. Antes de cumplirse el ultimátum, Pakistán logra un acuerdo de cese al fuego mientras se llevan a cabo conversaciones entre las partes."},
     { fecha: "11 y 12 de abril 2026", resumen: "Delegados estadounidenses e iraníes se reúnen en Islamabad para intentar llegar a un acuerdo. Pese a ello no se llega a un consenso y Estados Unidos declara un bloqueo naval a Irán."},
-    
+    { fecha: "13 de abril 2026", resumen: "Estados Unidos impone un bloqueo a los principales puertos de exportación. El objetivo es impedir la entrada y salida de buques de puertos iraníes."},
+    { fecha: "17 de abril 2026", resumen: "Irán abre el estrecho de Ormuz dentro del contexto del cese al fuego pactado por ambas partes, pero decide bloquearlo nuevamente debido al bloqueo estadounidense, el cual califican de piratería."},
+    { fecha: "21 de abril 2026", resumen: "Se tenía prevista una segunda ronda de negociaciones en Islamabad entre delegados de alto nivel de Estados Unidos e Irán. Esta se suspendió debido a que Irán no negociará con Estados Unidos mientras continue el bloqueo. Por su parte, el gobierno estadounidense extiende el cese al fuego de forma indefinida, pero mantiene el bloqueo sobre Irán."},
 ];
