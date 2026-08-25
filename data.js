@@ -54,4 +54,5 @@ const newsData = [
     { fecha: "4 de agosto 2026", resumen: "Los mercados han reaccionado de forma optimista ante la posibilidad de un acuerdo, mediado por Catar y distintos países del golfo Pérsico, entre Estados Unidos e Irán."},
     { fecha: "11 de agosto 2026", resumen: "Desde el 4 de agosto de 2026 han cesado las hostilidades directas entre Estados Unidos e Irán. Ahora el foco de atención se ha centrado en las negociaciones entre Irán y Omán para establecer las rutas sobre las que transitarán los buques que entren y salgan del Golfo Pérsico por el Estrecho de Ormuz."},
     { fecha: "18 de agosto 2026", resumen: "El plazo de 60 días fijado en el memorándum de entendimiento llegó a su fin sin que Estados Unidos e Irán lograran un acuerdo definitivo. El escenario continúa incierto con ambas naciones declarando que no hay conversaciones activas."},
+    { fecha: "25 de agosto 2026", resumen: "El gobierno de los Estados Unidos inició la operación Marginado Económico. Esta operación tiene como objetivo cortar las líneas económicas del gobierno iraní mediante sanciones a distintos sectores."},
 ];
