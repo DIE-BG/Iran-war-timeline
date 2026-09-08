@@ -56,4 +56,5 @@ const newsData = [
     { fecha: "18 de agosto 2026", resumen: "El plazo de 60 días fijado en el memorándum de entendimiento llegó a su fin sin que Estados Unidos e Irán lograran un acuerdo definitivo. El escenario continúa incierto con ambas naciones declarando que no hay conversaciones activas."},
     { fecha: "25 de agosto 2026", resumen: "El gobierno de los Estados Unidos inició la operación Marginado Económico. Esta operación tiene como objetivo cortar las líneas económicas del gobierno iraní mediante sanciones a distintos sectores."},
     { fecha: "01 de septiembre 2026", resumen: "Durante la semana se reportaron ataques entre Estados Unidos e Irán. Aunque ambos gobiernos han declarado que estas acciones no representan un retorno al conflicto a gran escala y dejan la posibilidad de retomar la vía diplomática si se cumplen sus condiciones."},
+    { fecha: "8 de septiembre 2026", resumen: "El conflicto entre Estados Unidos e Irán continúa con ataques entre ambas naciones. A ello se le suma la creciente tensión en la región, principalmente debido a los ataques de los hutíes contra Arabia Saudita."},
 ];
